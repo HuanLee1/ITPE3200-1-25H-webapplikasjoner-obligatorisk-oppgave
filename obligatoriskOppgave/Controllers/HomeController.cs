@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using obligatoriskOppgave.Models;
 
-//testkommentar
+//testkommentar ragni
 
 namespace obligatoriskOppgave.Controllers;
 
