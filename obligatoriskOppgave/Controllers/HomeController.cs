@@ -2,6 +2,8 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using obligatoriskOppgave.Models;
 
+//testkommentar
+
 namespace obligatoriskOppgave.Controllers;
 
 public class HomeController : Controller

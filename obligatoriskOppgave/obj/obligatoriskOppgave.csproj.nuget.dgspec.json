@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tobias\\Documents\\Semester_5\\Webapplikasjoner\\GithubCloned\\Oblig1Tets\\ITPE3200-1-25H-webapplikasjoner-obligatorisk-oppgave\\obligatoriskOppgave\\obligatoriskOppgave.csproj": {}
+    "/Users/ragnieliassen/Documents/Anvendt datateknologi/ITPE3200/obligatoriskOppgave/obligatoriskOppgave/obligatoriskOppgave.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tobias\\Documents\\Semester_5\\Webapplikasjoner\\GithubCloned\\Oblig1Tets\\ITPE3200-1-25H-webapplikasjoner-obligatorisk-oppgave\\obligatoriskOppgave\\obligatoriskOppgave.csproj": {
+    "/Users/ragnieliassen/Documents/Anvendt datateknologi/ITPE3200/obligatoriskOppgave/obligatoriskOppgave/obligatoriskOppgave.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tobias\\Documents\\Semester_5\\Webapplikasjoner\\GithubCloned\\Oblig1Tets\\ITPE3200-1-25H-webapplikasjoner-obligatorisk-oppgave\\obligatoriskOppgave\\obligatoriskOppgave.csproj",
+        "projectUniqueName": "/Users/ragnieliassen/Documents/Anvendt datateknologi/ITPE3200/obligatoriskOppgave/obligatoriskOppgave/obligatoriskOppgave.csproj",
         "projectName": "obligatoriskOppgave",
-        "projectPath": "C:\\Users\\Tobias\\Documents\\Semester_5\\Webapplikasjoner\\GithubCloned\\Oblig1Tets\\ITPE3200-1-25H-webapplikasjoner-obligatorisk-oppgave\\obligatoriskOppgave\\obligatoriskOppgave.csproj",
-        "packagesPath": "C:\\Users\\Tobias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tobias\\Documents\\Semester_5\\Webapplikasjoner\\GithubCloned\\Oblig1Tets\\ITPE3200-1-25H-webapplikasjoner-obligatorisk-oppgave\\obligatoriskOppgave\\obj\\",
+        "projectPath": "/Users/ragnieliassen/Documents/Anvendt datateknologi/ITPE3200/obligatoriskOppgave/obligatoriskOppgave/obligatoriskOppgave.csproj",
+        "packagesPath": "/Users/ragnieliassen/.nuget/packages/",
+        "outputPath": "/Users/ragnieliassen/Documents/Anvendt datateknologi/ITPE3200/obligatoriskOppgave/obligatoriskOppgave/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tobias\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ragnieliassen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
